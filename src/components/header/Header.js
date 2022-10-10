@@ -4,7 +4,8 @@ import "./Header.css"
 const Header = () => {
   return (
     <div className = "header">
-      Populer to Place</div>
+      <h1>Populer to Place</h1>
+      </div>
   );
 }
 
