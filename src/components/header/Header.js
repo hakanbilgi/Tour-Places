@@ -1,9 +1,10 @@
 import React from 'react'
-import from "./Header.css"
+import "./Header.css"
 
 const Header = () => {
   return (
-    <div>Header</div>
+    <div className = "header">
+      Populer to Place</div>
   );
 }
 
