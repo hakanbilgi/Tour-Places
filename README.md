@@ -14,7 +14,7 @@ Project aims to create a tour places app.
 
 ## Expected Outcome
 
-![Project 001 Snapshot](tour-project.gif)
+![Project 001 Snapshot](Photo_Album_React.gif)
 
 ## Objective
 
